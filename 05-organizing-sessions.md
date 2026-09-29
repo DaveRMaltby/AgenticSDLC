@@ -21,4 +21,4 @@ Runs on Windows, macOS, and Linux.
 
 ---
 
-[← Back](04-getting-answers.md)
+[← Back](04-getting-answers.md) | [Next →](06-making-a-plan.md)
