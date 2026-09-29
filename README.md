@@ -45,4 +45,4 @@ Every slide ends with a horizontal rule followed by its navigation links:
 
 ### Title slide
 
-The title slide (`01-title.md`) shows the presentation title, the presenter's name, and the presentation date written as *Month D, YYYY*.
+The title slide (`01-title.md`) shows the presentation title, the presenter's name, and the presentation date written as *Month D, YYYY*, followed by a short "What is the Agentic SDLC?" introduction.
