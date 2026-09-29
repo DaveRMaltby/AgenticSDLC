@@ -20,4 +20,4 @@ In a future session, I'll show a **company-approved approach** for collaborating
 
 ---
 
-[← Back](05-organizing-sessions.md)
+[← Back](05-organizing-sessions.md) | [Next →](07-building-from-the-plan.md)
