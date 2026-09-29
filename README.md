@@ -36,6 +36,11 @@ Every slide ends with a horizontal rule followed by its navigation links:
 - The last slide has only **← Back**.
 - Links are relative filenames, so they work both on GitHub and in a local Markdown previewer.
 
+### Speaker notes and placeholders
+
+- Speaker notes go in an HTML comment (`<!-- ... -->`) after the navigation links. GitHub doesn't render comments, so the notes stay off the slide.
+- Mark unfinished content with a `TODO-<TOPIC>` comment, for example `TODO-SURVEY`, so it's easy to find with a search.
+
 ### Adding, inserting, or removing slides
 
 - **Adding at the end:** Create the new file with a **← Back** link, then add a **Next →** link to the slide that was previously last.
