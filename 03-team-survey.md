@@ -6,10 +6,9 @@ Before we go further, let's see where the team stands with agentic development.
 
 ### Scan to join
 
-<!-- TODO-SURVEY: Replace this line with the QR code image, e.g. ![Survey QR code](images/03-survey-qr.png) -->
-*QR code coming soon*
+![Survey QR code](images/03-survey-qr.png)
 
-**Or open:** *survey link coming soon* <!-- TODO-SURVEY: Replace with the Microsoft Forms link -->
+**Or open:** [Bifrost Team ASDLC Survey](https://forms.cloud.microsoft/e/tEEeEKKefq)
 
 We'll look at the results together live.
 
