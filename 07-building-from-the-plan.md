@@ -22,7 +22,7 @@ Add a /health endpoint to the monitor service.
 
 **2. Hand it to the agent:**
 
-> *"Implement `docs/plans/monitor-health-check.md` one task at a time. After each task, build and run the tests, and don't move on until they pass. When you're done, check every item under Acceptance and open a PR that includes the plan and any skill updates."*
+> *"Implement `docs/plans/monitor-health-check.md` one task at a time. After each task, build and run the tests, and don't move on until they pass. When you're done, check every item under Acceptance and open a PR that includes the plan and any skill updates. Then watch the PR until CI is green. If it fails, fix the issues, commit, and push. Keep going until CI is fully green or I ask you to stop."*
 
 **3. You review the PR against the plan, not line by line.** Did it meet the acceptance criteria? Did it stay within scope?
 
